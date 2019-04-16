@@ -1,0 +1,8 @@
+{
+  "host": {
+    "title": "Host",
+    "type": "string",
+    "default": "https://hanime.tv",
+    "required": true
+  }
+}
